@@ -1,0 +1,2 @@
+8962e538a606b5e29c13f9870ce039b96f86f6f7dab22b284489e059fb4e1da0  AI-Video-Studio-mac-arm64.zip
+afb599dedfaca0bb906f041103073d2393fa581e5d5f7167f10700c7460018ee  AI-Video-Studio-windows-x64.zip
